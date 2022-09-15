@@ -1,0 +1,207 @@
+#v{
+    border: solid black 5px;
+    background: rgb(164,28,49);
+background: radial-gradient(circle, rgba(164,28,49,1) 0%, rgba(92,33,47,1) 100%);
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 500px;
+}
+#c{
+    border: solid transparent 5px;
+    background: rgb(34,113,195);
+background: linear-gradient(0deg, rgba(34,113,195,1) 0%, rgba(45,253,184,1) 100%);
+    position: relative;
+    top: 2%;
+    left: 2%;
+    width: 50%;
+    height: 65%;
+
+}
+
+#m{
+    border: solid black 5px;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(205,45,253,1) 100%);
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 500px;
+}
+#a1{
+    border: solid transparent 5px;
+    background-color: #dddb42;
+    border-radius: 50% 50% 0% 0%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 25%;
+    left: 40%;
+}
+#a2{
+    border: solid transparent 5px;
+    background-color: #dddb42;
+    border-radius: 0% 0% 50% 50%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 24.3%;
+    left: 23.5%;
+}
+#a3{
+    border: solid transparent 5px;
+    background-color: #dddb42;
+    border-radius: 0% 0% 50% 50%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: -1.5%;
+    left: 56.5%;
+}
+
+#ma{
+    border: solid black 5px;
+    background: rgb(164,34,175);
+background: radial-gradient(circle, rgba(164,34,175,1) 0%, rgba(70,39,115,1) 100%);
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 500px;
+}
+#c1{
+    border: solid transparent 5px;
+    background-color: #945f34;
+    
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 10%;
+    left: 75%;
+}
+#c2{
+    border: solid transparent 5px;
+    background-color: #945f34                                                                                                                                   ;
+    
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: -17%;
+    left: 10%;
+}
+#c3{
+    border: solid transparent 5px;
+    background-color: #945f34;
+    
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 10%;
+    left: 10%;
+}
+#c4{
+    border: solid transparent 5px;
+    background-color: #945f34;
+    
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: -15%;
+    left: 75%;
+}
+#az{
+    border: solid black 5px;
+    background-color: #3fc0f3;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 550px;
+}
+#col1{
+    border: solid transparent 5px;
+    background-color: #dddb42;
+    
+    position: relative;
+    width: 120px;
+    height: 350px;
+    top: 20%;
+    left: 10%;
+}
+#col2{
+    border: solid transparent 5px;
+    background-color: #dddb42;
+    border-radius: 0% 0% 0% 0%;
+    position: relative;
+    width: 120px;
+    height: 350px;
+    top: -46%;
+    left: 71%;
+}
+#cir1{
+    border: solid transparent 5px;
+    background-color: #4034a8;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    top: 20%;
+    left: 25%;
+}
+#cir2{
+    border: solid transparent 5px;
+    background-color: #d3ee37;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 28%;
+    left: 28%;
+}
+#cir12{
+    border: solid transparent 5px;
+    background-color: #3fc0f3;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    top: -125%;
+    left: 16%;
+}
+#a{
+    border: solid black 5px;
+    background: rgb(164,28,49);
+background: radial-gradient(circle, rgba(164,28,49,1) 0%, rgba(92,33,47,1) 100%);
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 500px;
+}
+#cul1{
+    border: solid transparent 5px;
+    background-color: #3683db;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 30%;
+    left: 50%;
+}
+#cul2{
+    border: solid transparent 5px;
+    background-color: #9936db;
+    border-radius: 50% 0% 50% 50%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 20%;
+    left: 40%;
+}
+#cul3{
+    border: solid transparent 5px;
+    background-color: #36db7b;
+    border-radius: 50% 0% 50% 50%;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 12%;
+    left: 30%;
+}
